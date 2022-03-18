@@ -1,0 +1,20 @@
+{
+  "name": "بوت جافص",
+  "description": "من جسمه يشتغل",
+  "logo" : "https://telegra.ph/file/69e1be6cfa5470f3322e4.jpg",
+  "success_url" : "https://t.me/HssHH",
+  "keywords": [
+    "telegram",
+    "bot",
+    "jaybee"
+  ],
+  "repository": "https://github.com/HssHH/mdre",
+  "website": "https://github.com/HssHH/mdre",
+  "env": {
+    "TOKEN": {
+      "description": "توكن بوتك",
+      "value": ""
+    },
+    }
+  }
+}
